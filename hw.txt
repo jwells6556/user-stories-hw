@@ -1,0 +1,39 @@
+Facebook
+
+Feature:Login
+-Must accept email and password parameters
+-login button must be visible
+-login button must be clickable
+-login button should take user to home screen with correct login information
+-user should be prompted to re-enter incorrect login information
+
+-as a user, i can see the login button
+-as a user i can enter my email and password
+-as a user, i can click the login button
+-as a user, i am taken to the home screen with correct info
+-as a user, i am taken to the re-enter screen with incorrect info
+
+Feature:Friends List
+-displays list of friends
+-displays profile picture of friends
+-displays name of friends
+-search for friend by name
+
+-as a user i can see a list of my friends
+-as a user i can see my friends profile pictures
+-as a user i can see my friends names
+-as a user i can search through my friends by name
+
+Feature:NewsFeed
+-displays list of friends post
+-displays name and picture of poster
+-ability to ‘like’ posts
+-ability to ‘share’ posts
+-ability to ‘comment’ on posts
+
+-as a user i can see a list of my friends posts
+-as a user i can see the name of the poster
+-as a user i can see the profile picture of the poster
+-as a user i can ‘like’ the posts by clicking the ‘like’ button
+-as a user i can ‘share’ the posts by clicking the ‘share’ button
+-as a user i can comment on the posts by typing in a comment below them
